@@ -1,0 +1,31 @@
+*.iml
+.gradle
+/local.properties
+local.properties
+
+# IDE
+.idea/
+
+# Build files
+/build
+*/build/
+*.apk
+*.aab
+
+# Other
+.DS_Store
+/captures
+.externalNativeBuild
+.cxx
+
+# Signing
+keystore.properties
+*.keystore
+*.jks
+signing/
+
+# Claude
+.claude/
+
+# Documentation (local only)
+/doc/
